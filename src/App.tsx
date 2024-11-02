@@ -5,12 +5,12 @@ function App() {
         <h1 className="text-3xl font-bold">Spenser Guo</h1>
         <p className="text-muted-foreground text-lg">Aspiring Web Designer</p>
       </header>
-      <h2 className="font-bold">Projects</h2>{" "}
+      <h2 className="font-bold mt-4 text-2xl">Projects</h2>
       <a
         href="https://github.com/5penny/cabbages"
         className="text-blue-600 visited:text-purple-600 text-lg font-medium text-primary hover:underline"
       >
-        Cabbage Website
+        Github link
       </a>
       <div className="space-y-3 mt-2">
         <div>
